@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dark6/CLionProjects/2laba/Payment.cpp
+iostream
+-
+string
+-
+Payment.h
+C:/Users/dark6/CLionProjects/2laba/Payment.h
+Payment.h
+C:/Users/dark6/CLionProjects/2laba/Payment.h
+
+C:/Users/dark6/CLionProjects/2laba/Payment.h
+string
+-
+
+C:/Users/dark6/CLionProjects/2laba/main.cpp
+iostream
+-
+string
+-
+Payment.h
+C:/Users/dark6/CLionProjects/2laba/Payment.h
+
